@@ -19,11 +19,12 @@
 #### 知识相关
 
 - [interview-questions](https://github.com/RhysZhao/interview-questions) 前端面试题整理，持续更新中...
-- [webpack-learn](https://github.com/RhysZhao/) 速学 webpack5，学习 webpack 的心得总结，持续更新中...
+- [webpack-learn](https://github.com/RhysZhao/webpack-learn) 速学 webpack5，学习 webpack 的心得总结，持续更新中...
+- [react-learn](https://github.com/RhysZhao/react-learn) 重学 react，重读官方文档，总结出的 react 心得总结，持续更新中...
 
 #### 正在做的事情(Doing Now)
 
-- react 原理及源码
+- 重学React
 
 #### 即将要做的事情(Todo)
 
