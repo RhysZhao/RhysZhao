@@ -8,7 +8,7 @@
 - [webpack-react-template](https://github.com/RhysZhao/webpack-react-template) 基于 webpack5 构建的 React 项目开发模板
 - [vite-react-template](https://github.com/RhysZhao/vite-react-template) 基于 vite 构建的 React 项目开发模板
 - [webpack-component-template](https://github.com/RhysZhao/webpack-component-template) 基于 webpack5 构建的组件开发模板，用来开发 npm 包
-
+- [vuepress-template](https://github.com/RhysZhao/vuepress-template) vuepress配置的markdown码字模板
 #### 工具相关
 
 - [happy-react-hooks](https://github.com/RhysZhao/happy-react-hooks) React Hooks工具库，持续更新中...
