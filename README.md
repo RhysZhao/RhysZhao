@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=RhysZhao&show_icons=true" alt="logo" height="160" align="right" />
 
 #### 项目模板相关
 
